@@ -57,3 +57,10 @@ See the [`LICENSE`](LICENSE) file in this repository for full terms.
 The SitStill Digital Archive operates entirely on a **free and open-source** basis. No payment is ever required to download, use, or share these resources.
 
 If this archive supports your farming practice, research, or learning, you can contribute via the **Voluntary Support** links listed on our website to help sustain ongoing field documentation and open archival work.
+
+---
+
+## License & Brand Notice
+
+The Freedom Engine content and organic captures are shared openly for public benefit, while **Samyamars™** and **SitStill Digital Archive** names and logos remain the exclusive trademarks of their respective owners.
+
